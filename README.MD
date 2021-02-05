@@ -24,4 +24,4 @@ Search algorithm that finds the position of a target value within a sorted array
 * **Dede Kurniawan** - *Full Stack Engineer* - *Algorithm (Binary Search)* - [Linkedin](https://www.linkedin.com/in/dedekrnwan/) - [Github](https://github.com/dedekrnwan)
 
 ## Link
-* [Persentation](https://www.canva.com/design/DAEVRHLD-II/J-az-nvihihtdqVr1kqI5Q/view?utm_content=DAEVRHLD-II&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+* [Presentation](https://www.canva.com/design/DAEVRHLD-II/J-az-nvihihtdqVr1kqI5Q/view?utm_content=DAEVRHLD-II&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
